@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/axilleas/Documents/UOWM/Semester_9/Mobile_Computing/Erg2/CityGuideApp/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/axilleas/Documents/UOWM/Semester_9/Mobile_Computing/Erg2/CityGuideApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/paris/Desktop/CityGuideApp/CityGuideApp/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/paris/Desktop/CityGuideApp/CityGuideApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/paris/Desktop/Untitled Folder/CityGuideApp/CityGuideApp/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/paris/Desktop/Untitled Folder/CityGuideApp/CityGuideApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

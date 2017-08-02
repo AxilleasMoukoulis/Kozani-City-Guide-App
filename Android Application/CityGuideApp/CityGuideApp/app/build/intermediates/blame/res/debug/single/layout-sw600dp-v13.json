@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/paris/Desktop/Untitled Folder/CityGuideApp/CityGuideApp/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/paris/Desktop/Untitled Folder/CityGuideApp/CityGuideApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout-sw600dp/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/axilleas/Documents/UOWM/Semester_9/Mobile_Computing/Erg2/CityGuideApp/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/axilleas/Documents/UOWM/Semester_9/Mobile_Computing/Erg2/CityGuideApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout-sw600dp/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/paris/Desktop/CityGuideApp/CityGuideApp/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/paris/Desktop/CityGuideApp/CityGuideApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout-sw600dp/design_layout_snackbar.xml"
+    }
+]

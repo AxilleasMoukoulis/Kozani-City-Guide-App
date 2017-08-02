@@ -1,0 +1,57 @@
+<!--
+Students: 
+-->
+<!DOCTYPE html>
+<html>
+	
+<head>
+	<title>Kozani City Guide</title>
+		<meta charset="utf-8">
+		<link href="css/style.css" rel='stylesheet' type='text/css' />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+	<script type="application/x-javascript"> 
+		addEventListener("load", function() 
+		{ setTimeout(hideURLbar, 0); }, false); 
+
+		function hideURLbar(){ window.scrollTo(0,1); } 
+	</script>
+	
+	<!--webfonts-->
+	<link href='//fonts.googleapis.com/css?family=Open+Sans:600italic,400,300,600,700' rel='stylesheet' type='text/css'>
+	<!--//webfonts-->
+</head>
+
+<body>
+	
+	<!-----start-main---->
+	<div class="login-form">
+		<div class="head">
+			<img src="images/logo115.png" alt=""/> <!--logo image-->			
+		</div>
+		<form id="form" method="post" action="login.php">
+			<li>
+				<input type="text" class="text" name="username" placeholder="Username" required ><a href="#" class=" icon user"></a>
+			</li>
+			<li>
+				<input type="password" name="password" placeholder="Password" required ><a href="#" class=" icon lock"></a>
+			</li>
+		
+			<div class="p-container">
+				<label class="checkbox">
+				<input type="checkbox" name="checkbox" checked><i></i>Remember Me</label>
+				<input type="submit" name="login" value="SIGN IN" >
+				<div class="clear"> </div>
+			</div>
+		</form>
+	</div>
+	<!--//End-login-form-->
+	
+	<!-----start-copyright---->
+   	<div class="copy-right">
+		<p> &copy; Copyright Kozani City Guide 2016 All Rights Reserved. Designed & Powered by cityguidekozani</p>
+	</div>
+	<!-----//end-copyright---->
+		 		
+</body>
+</html>

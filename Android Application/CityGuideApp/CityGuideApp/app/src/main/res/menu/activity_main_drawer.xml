@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_trending"
+            android:icon="@drawable/crown"
+            android:title="Δημοφιλή"
+            />
+
+    </group>
+
+    <item android:title="Αξιοθέατα">
+        <menu>
+            <item
+            android:id="@+id/nav_historic"
+            android:icon="@drawable/castle"
+            android:title="Ιστορικά Κτήρια"
+                android:checkable="true"/>
+            <item
+            android:id="@+id/nav_church"
+            android:icon="@drawable/church"
+            android:title="Εκκλησίες"
+                android:checkable="true"/>
+            <item
+            android:id="@+id/nav_museum"
+            android:icon="@drawable/museum"
+            android:title="Μουσεία"
+                android:checkable="true"/>
+        </menu>
+    </item>
+
+    <item android:title="Διασκέδαση">
+        <menu>
+            <item
+                android:id="@+id/nav_cafes"
+                android:icon="@drawable/coffee"
+                android:title="Καφετέριες"
+                android:checkable="true"/>
+            <item
+                android:id="@+id/nav_bar"
+                android:icon="@drawable/cup"
+                android:title="Μπαρ"
+                android:checkable="true"/>
+            <item
+                android:id="@+id/nav_club"
+                android:icon="@drawable/beer"
+                android:title="Κλαμπ"
+                android:checkable="true"/>
+        </menu>
+    </item>
+
+    <item android:title="Εστίαση">
+        <menu>
+            <item
+                android:id="@+id/nav_restaurants"
+                android:icon="@drawable/silverware_variant"
+                android:title="Εστιατόρια"
+                android:checkable="true"/>
+            <item
+                android:id="@+id/nav_taverns"
+                android:icon="@drawable/food"
+                android:title="Ταβέρνες"
+                android:checkable="true"/>
+            <item
+                android:id="@+id/nav_mezes"
+                android:icon="@drawable/silverware_fork"
+                android:title="Μεζεδοπωλεία"
+                android:checkable="true"/>
+        </menu>
+    </item>
+
+
+    <item android:title="Διαμονή">
+        <menu>
+            <item
+                android:id="@+id/nav_hotels"
+                android:icon="@drawable/hotel"
+                android:title="Ξενοδοχεία"
+                android:checkable="true"/>
+
+        </menu>
+    </item>
+
+
+</menu>
